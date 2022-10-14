@@ -8,7 +8,7 @@
   - 🎓 &nbsp; Full Stack Web Developer.
   - 💼 &nbsp; Learning Ruby.
   - 🌱 &nbsp; Future Ruby On Rails developer.
-  - ✍️ &nbsp; I like Electronic Games as hobbies/side activities.  
+  - ✍️ &nbsp; I like surfing and hiking as hobbies/side activities.  
 </div> 
 </div>
 
