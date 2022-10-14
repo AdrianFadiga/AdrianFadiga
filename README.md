@@ -6,8 +6,8 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🎓 &nbsp; Full Stack Web Developer.
-  - 💼 &nbsp; Learning Python.
-  <!-- - 🌱 &nbsp; Future fullstack developer. -->
+  - 💼 &nbsp; Learning Ruby.
+  - 🌱 &nbsp; Future Ruby On Rails developer.
   - ✍️ &nbsp; I like Electronic Games as hobbies/side activities.  
 </div> 
 </div>
