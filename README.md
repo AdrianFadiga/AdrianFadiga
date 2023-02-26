@@ -32,6 +32,8 @@
    <img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" width="50" alt="Chai">
    <img src="https://thekenyandev.com/static/ba180df420dbaffd7405a0f65764feab/cover.png" width="50" alt="JWT">
    <img src="https://www.svgrepo.com/show/349404/heroku.svg" width="50" alt="heroku">
+   <img src="https://www.svgrepo.com/show/349494/ruby.svg" width="50" alt="ruby">
+   <img src="https://www.svgrepo.com/show/376345/rails.svg" width="50" alt="ruby-on-rails">
   <p>
 </div> 
   
