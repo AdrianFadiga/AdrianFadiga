@@ -6,8 +6,8 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🎓 &nbsp; Full Stack Web Developer.
-  - 💼 &nbsp; Learning Ruby.
-  - 🌱 &nbsp; Future Ruby On Rails developer.
+  - 💼 &nbsp; Working as Ruby on Rails / NodeJs Developer
+  - 🌱 &nbsp; Learning Java / SpringBoot
   - ✍️ &nbsp; I like surfing and hiking as hobbies/side activities.  
 </div> 
 </div>
