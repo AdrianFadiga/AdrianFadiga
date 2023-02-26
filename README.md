@@ -34,6 +34,7 @@
    <img src="https://www.svgrepo.com/show/349404/heroku.svg" width="50" alt="heroku">
    <img src="https://www.svgrepo.com/show/349494/ruby.svg" width="50" alt="ruby">
    <img src="https://www.svgrepo.com/show/376345/rails.svg" width="50" alt="ruby-on-rails">
+   <img src="https://www.svgrepo.com/show/306460/nestjs.svg" width="50" alt="nestjs">
   <p>
 </div> 
   
